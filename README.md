@@ -21,3 +21,8 @@ Host someinternalhost
   User andrew93pav
   
 `-W` - ключ создания туннеля
+
+### Данные для подключения
+bastion_IP = 35.210.131.244
+
+someinternalhost_IP = 10.132.0.3 
